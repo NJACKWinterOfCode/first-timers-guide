@@ -19,6 +19,31 @@
 - [FAQs](#faqs)
 - [License](#license)
 
+### Guides
+
+- [Cloud development](guides/Cloud_development)
+- [DevOps](guides/DevOps)
+- [Game Development](guides/GameDevelopment)
+- [Networking](guides/Networking)
+- [Open Source Software](guides/Open_Source_Software)
+- [Programming Paradigm](guides/Programming_Paradigm)
+- [Security](guides/Security)
+- [Starters](guides/Starters)
+- [UI design](guides/UI_design)
+- [UX design](guides/UX_design)
+- [Version Control](guides/Version_Control)
+- [Visual design](guides/Visual_design)
+- [Web Containers](guides/Web Containers)
+- [Web Frameworks](guides/Web_Frameworks)
+- [Agile](guides/agile)
+- [Computation](guides/computation)
+- [Data science](guides/data_science)
+- [Databases](guides/databases)
+- [Issue tracking](guides/issue_tracking)
+- [Logic](guides/logic)
+- [Python](guides/python)
+- [Web development](guides/web_development)
+
 ### What?
 
 First-timers guide is a guide to encourage more people to venture into open-source. The word guide can be a little misunderstood
