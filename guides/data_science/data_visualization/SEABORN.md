@@ -1,4 +1,4 @@
-#SEABORN
+﻿#SEABORN
 =============
 
 Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures. Seaborn aims to make visualization a central part of exploring and understanding data. It's dataset-oriented plotting functions operate on data frames and arrays containing whole data sets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots.
@@ -15,13 +15,24 @@ Some of the functionality that Seaborn offers:
 ###Installing and getting started
 
 To install the latest release of seaborn, you can use pip:
-Markup : `pip install seaborn`
+````sh
+    pip install seaborn
+````
+
 It’s also possible to install the released version using conda:
-Markup : `conda install searborn`
+```sh
+   conda install searborn
+```
+
 Alternatively, you can use pip to install the development version directly from github:
-Markup : `pip install git+https://github.com/mwaskom/seaborn.git`
+```sh
+   pip install git+https://github.com/mwaskom/seaborn.git
+```
+
 Another option would be to clone the github repository and install from your local copy:
-Markup : `pip install`
+```sh
+   pip install
+```
 
 ####Dependencies
 
@@ -45,5 +56,5 @@ To test seaborn, run make test in the root directory of the source distribution.
 The full set of tests requires an internet connection to download the example datasets (if they haven’t been previously cached), but the unit tests should be possible to run offline.
 
 ##Why seaborn is more preferred than other data visualization libraries?
-
+- - - -
 The usage statistics posted on several websites depict that Python data visualization libraries are currently more popular than other data visualization libraries. People prefer this as it allows them to make interactive plots and it is much more flexible than most other popular visualization tools. Seaborn enable users to present huge volumes of data in an easy-to-comprehend visual format. It allows automatic estimation and plotting of linear regression models for different kinds dependent variables and also allows high-level abstractions for structuring multi-plot grids that let you easily build complex visualizations. It also allow data analysts to choose tools color palettes that faithfully reveal patterns in their data and concise control over matplotlib figure styling with several built-in-themes. Most data analysts prefer searborn to visualize data in more appealing way
